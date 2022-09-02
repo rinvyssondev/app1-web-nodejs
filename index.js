@@ -16,8 +16,8 @@ connection
     console.log(msgErro);
   });
 
-// localhost
-const localhost = "192.168.0.11";
+// host
+const host = "192.168.0.11";
 const PORT = process.env.PORT || 3000;
 // Chamando o EJS
 app.set("view engine", "ejs");
@@ -93,6 +93,6 @@ app.post("/responder", (req, res) => {
 });
 
 // Servidor on
-app.listen(PORT, localhost, () => {
+app.listen(PORT, host, () => {
   console.log("App rodando!");
 });
