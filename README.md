@@ -13,7 +13,7 @@
   <br>
   \*Depois disso é só digitar **node index.js**, porém qualquer alteração feita terá que restartar o servidor usando o mesmo comando; ou <br>
   *Pode rodar também utilizando o comando **nodemon index.js**, com isso, qualquer mudança feita na aplicação o comando irá fazer um restart no servidor automaticamente; ou <br>
-  *Poderá deixar a aplicação rodando em **background** utilizando o comando **pm2 start index.js**, porém irá consumir 100% da cpu do seu computador. <br>
+  *Poderá deixar a aplicação rodando em _background_ utilizando o comando **pm2 start index.js**, porém irá consumir 100% da cpu do seu computador. <br>
 
   **<h2> Tecnologias Utilizadas: </h2>**
   <br>
