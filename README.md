@@ -16,6 +16,14 @@
   **<h2> Tecnologias Utilizadas: </h2>**
   <br>
 
+- Versão do NodeJS:
+  <br>
+  Node: v16.15.1
+  <br>
+- Banco de dados:
+  <br>
+  Mysql 8.0.30
+  <br>
 - Lista de dependências:
   <br>
   body-parser: ^1.20.0", <br>
@@ -23,7 +31,3 @@
   express: ^4.18.1, <br>
   mysql2: ^2.3.3, <br>
   sequelize: ^6.21.4 <br>
-  <br>
-- Banco de dados:
-  <br>
-  Mysql 8.0.30
