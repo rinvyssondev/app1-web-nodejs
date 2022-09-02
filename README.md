@@ -4,10 +4,17 @@
 <br>
 
 - O projeto consta em desenvolver um conteúdo que abrange perguntas e respostas. Nas quais utiliza-se alguns conceitos básicos de NodeJS como comunicação com o banco de dados, front-end e práticas com o bootstrap. Para rodar a aplicação precisa do Banco de dados instalado/conectado (MySQL) e do NodeJS.
-  Crie uma tabela no Banco de dados e preecha as variáveis que está em **/database/database.js**. Depois disso é só digitar **node index.js** ou **nodemon index.js**.
   <br>
-  **<h2> Tecnologias Utilizadas: </h2>**
+- Passos:
   <br>
+
+  - Execute o comando **npm install** na pasta que você criou para colocar os arquivos, isso irá baixar as depedências solicitadas para rodar a aplicação. <br>
+    *Crie uma tabela no Banco de dados e preecha as variáveis que está em **/database/database.js**.
+    <br>
+    *Depois disso é só digitar **node index.js** ou **nodemon index.js**. <br>
+    **<h2> Tecnologias Utilizadas: </h2>**
+    <br>
+
 - Lista de dependências:
   <br>
   body-parser: ^1.20.0", <br>
