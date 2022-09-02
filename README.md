@@ -8,12 +8,13 @@
 - Passos:
   <br>
 
-  - Execute o comando **npm install** na pasta que você criou para colocar os arquivos, isso irá baixar as depedências solicitadas para rodar a aplicação. <br>
-    *Crie uma tabela no Banco de dados e preecha as variáveis que está em **/database/database.js**.
-    <br>
-    *Depois disso é só digitar **node index.js** ou **nodemon index.js**. <br>
-    **<h2> Tecnologias Utilizadas: </h2>**
-    <br>
+  *Execute o comando **npm install** na pasta que você criou para colocar os arquivos, isso irá baixar as depedências solicitadas para rodar a aplicação. <br>
+  *Crie uma tabela no Banco de dados e preecha as variáveis que está em **/database/database.js**.
+  <br>
+  \*Depois disso é só digitar **node index.js** ou **nodemon index.js**. <br>
+
+  **<h2> Tecnologias Utilizadas: </h2>**
+  <br>
 
 - Lista de dependências:
   <br>
